@@ -23,8 +23,7 @@ Abstract : In this paper, to detect deepfake images, images are divided into pat
 
 ### Spec
 * Loss fuction = Cross Entropy, epoch = 50, optimizer = Adam
-* 
-Indicators : The highest accuracy(top-1) / The average of the 5 highest accuracy(top-5) / The average of the overall accuracy(Average)
+* Indicators : The highest accuracy(top-1) / The average of the 5 highest accuracy(top-5) / The average of the overall accuracy(Average)
 
 ## Experimental Method
 ### Experiment 1
