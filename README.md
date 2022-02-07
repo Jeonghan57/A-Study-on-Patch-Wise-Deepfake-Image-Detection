@@ -77,8 +77,8 @@ Determining whether an image is forged by selecting only patches with high class
 * StyleGAN2로 생성된 **딥페이크 영상 검출**을 위해 입력 영상을 패치로 나누고, 패치의 인식 결과로부터 영상의 위조 여부를 판별하는 방법의 성능을 **실험적으로 검증**
 * 패치의 크기에 따라 위조 영상 검출 정확도가 달라졌으나, **패치 기반 위조 영상 검출 방법은 유효**
 * 신뢰도가 높은 패치만을 **선별함으로써** 검출 정확도를 보다 **개선**
-* 딥러닝 깁나 딥페이크 영상 검출 방법은 학습 데이터셋과 평가 데이터셋의 **생성 모델이 다르거나 콘텐츠가 상이**한 경우 검출 정확도가 크게 떨어지는데, 패치 기반 위조 영상 검출을 통해 **개선된 성능 확인**
-* 향후, 더 어령누 조건에서도 **분류 정확도를 향상**시키기 위한 연구가 필요
+* 딥러닝 기반 딥페이크 영상 검출 방법은 학습 데이터셋과 평가 데이터셋의 **생성 모델이 다르거나 콘텐츠가 상이**한 경우 검출 정확도가 크게 떨어지는데, 패치 기반 위조 영상 검출을 통해 **개선된 성능 확인**
+* 향후, 더 어려운 조건에서도 **분류 정확도를 향상**시키기 위한 연구가 필요
 
 ### Acknowledgement
 This work was supported by the National Re earch Foundation of Korea (NRF) Grant by the Korean Government through the MSIT under Grant 2021R1F1A1045749
