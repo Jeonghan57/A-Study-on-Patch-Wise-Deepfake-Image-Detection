@@ -1,0 +1,1 @@
+# A-Study-on-Patch-Wise-Deepfake-Image-Detection
