@@ -12,3 +12,4 @@ Abstract : In this paper, to detect deepfake images, images are divided into pat
 
 ## Settings
 ### Dataset
+* Category : FFHQ, CelebA, LSUN - church_outdoor
