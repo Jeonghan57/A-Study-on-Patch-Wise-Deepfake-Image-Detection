@@ -1,0 +1,100 @@
+epoch 0
+Correct:2192 / Incorrect:1808 / Accuracy:54.80%
+epoch 1
+Correct:2041 / Incorrect:1959 / Accuracy:51.02%
+epoch 2
+Correct:2073 / Incorrect:1927 / Accuracy:51.82%
+epoch 3
+Correct:2019 / Incorrect:1981 / Accuracy:50.48%
+epoch 4
+Correct:2025 / Incorrect:1975 / Accuracy:50.62%
+epoch 5
+Correct:2038 / Incorrect:1962 / Accuracy:50.95%
+epoch 6
+Correct:2007 / Incorrect:1993 / Accuracy:50.18%
+epoch 7
+Correct:2010 / Incorrect:1990 / Accuracy:50.25%
+epoch 8
+Correct:2009 / Incorrect:1991 / Accuracy:50.22%
+epoch 9
+Correct:2027 / Incorrect:1973 / Accuracy:50.68%
+epoch 10
+Correct:2026 / Incorrect:1974 / Accuracy:50.65%
+epoch 11
+Correct:2003 / Incorrect:1997 / Accuracy:50.08%
+epoch 12
+Correct:2020 / Incorrect:1980 / Accuracy:50.50%
+epoch 13
+Correct:2008 / Incorrect:1992 / Accuracy:50.20%
+epoch 14
+Correct:2005 / Incorrect:1995 / Accuracy:50.12%
+epoch 15
+Correct:2029 / Incorrect:1971 / Accuracy:50.72%
+epoch 16
+Correct:2019 / Incorrect:1981 / Accuracy:50.48%
+epoch 17
+Correct:2019 / Incorrect:1981 / Accuracy:50.48%
+epoch 18
+Correct:2006 / Incorrect:1994 / Accuracy:50.15%
+epoch 19
+Correct:2009 / Incorrect:1991 / Accuracy:50.22%
+epoch 20
+Correct:2020 / Incorrect:1980 / Accuracy:50.50%
+epoch 21
+Correct:2010 / Incorrect:1990 / Accuracy:50.25%
+epoch 22
+Correct:2011 / Incorrect:1989 / Accuracy:50.28%
+epoch 23
+Correct:2003 / Incorrect:1997 / Accuracy:50.08%
+epoch 24
+Correct:2004 / Incorrect:1996 / Accuracy:50.10%
+epoch 25
+Correct:2010 / Incorrect:1990 / Accuracy:50.25%
+epoch 26
+Correct:2002 / Incorrect:1998 / Accuracy:50.05%
+epoch 27
+Correct:2004 / Incorrect:1996 / Accuracy:50.10%
+epoch 28
+Correct:2003 / Incorrect:1997 / Accuracy:50.08%
+epoch 29
+Correct:2014 / Incorrect:1986 / Accuracy:50.35%
+epoch 30
+Correct:2005 / Incorrect:1995 / Accuracy:50.12%
+epoch 31
+Correct:1999 / Incorrect:2001 / Accuracy:49.98%
+epoch 32
+Correct:2011 / Incorrect:1989 / Accuracy:50.28%
+epoch 33
+Correct:2008 / Incorrect:1992 / Accuracy:50.20%
+epoch 34
+Correct:2008 / Incorrect:1992 / Accuracy:50.20%
+epoch 35
+Correct:2020 / Incorrect:1980 / Accuracy:50.50%
+epoch 36
+Correct:2014 / Incorrect:1986 / Accuracy:50.35%
+epoch 37
+Correct:2006 / Incorrect:1994 / Accuracy:50.15%
+epoch 38
+Correct:2012 / Incorrect:1988 / Accuracy:50.30%
+epoch 39
+Correct:2000 / Incorrect:2000 / Accuracy:50.00%
+epoch 40
+Correct:2007 / Incorrect:1993 / Accuracy:50.18%
+epoch 41
+Correct:2002 / Incorrect:1998 / Accuracy:50.05%
+epoch 42
+Correct:2008 / Incorrect:1992 / Accuracy:50.20%
+epoch 43
+Correct:2008 / Incorrect:1992 / Accuracy:50.20%
+epoch 44
+Correct:2004 / Incorrect:1996 / Accuracy:50.10%
+epoch 45
+Correct:2011 / Incorrect:1989 / Accuracy:50.28%
+epoch 46
+Correct:2005 / Incorrect:1995 / Accuracy:50.12%
+epoch 47
+Correct:2015 / Incorrect:1985 / Accuracy:50.38%
+epoch 48
+Correct:2001 / Incorrect:1999 / Accuracy:50.02%
+epoch 49
+Correct:2002 / Incorrect:1998 / Accuracy:50.05%

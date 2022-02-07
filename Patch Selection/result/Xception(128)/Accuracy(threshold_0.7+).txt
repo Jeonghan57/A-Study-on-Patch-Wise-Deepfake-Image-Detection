@@ -1,0 +1,100 @@
+epoch 0
+Correct:3653 / Incorrect:347 / Accuracy:91.33%
+epoch 1
+Correct:3751 / Incorrect:249 / Accuracy:93.77%
+epoch 2
+Correct:3787 / Incorrect:213 / Accuracy:94.67%
+epoch 3
+Correct:3838 / Incorrect:162 / Accuracy:95.95%
+epoch 4
+Correct:3889 / Incorrect:111 / Accuracy:97.22%
+epoch 5
+Correct:3852 / Incorrect:148 / Accuracy:96.30%
+epoch 6
+Correct:3923 / Incorrect:77 / Accuracy:98.08%
+epoch 7
+Correct:3904 / Incorrect:96 / Accuracy:97.60%
+epoch 8
+Correct:3894 / Incorrect:106 / Accuracy:97.35%
+epoch 9
+Correct:3891 / Incorrect:109 / Accuracy:97.28%
+epoch 10
+Correct:3871 / Incorrect:129 / Accuracy:96.78%
+epoch 11
+Correct:3936 / Incorrect:64 / Accuracy:98.40%
+epoch 12
+Correct:3896 / Incorrect:104 / Accuracy:97.40%
+epoch 13
+Correct:3929 / Incorrect:71 / Accuracy:98.22%
+epoch 14
+Correct:3922 / Incorrect:78 / Accuracy:98.05%
+epoch 15
+Correct:3907 / Incorrect:93 / Accuracy:97.67%
+epoch 16
+Correct:3883 / Incorrect:117 / Accuracy:97.08%
+epoch 17
+Correct:3890 / Incorrect:110 / Accuracy:97.25%
+epoch 18
+Correct:3949 / Incorrect:51 / Accuracy:98.72%
+epoch 19
+Correct:3936 / Incorrect:64 / Accuracy:98.40%
+epoch 20
+Correct:3903 / Incorrect:97 / Accuracy:97.58%
+epoch 21
+Correct:3948 / Incorrect:52 / Accuracy:98.70%
+epoch 22
+Correct:3913 / Incorrect:87 / Accuracy:97.82%
+epoch 23
+Correct:3951 / Incorrect:49 / Accuracy:98.78%
+epoch 24
+Correct:3967 / Incorrect:33 / Accuracy:99.17%
+epoch 25
+Correct:3928 / Incorrect:72 / Accuracy:98.20%
+epoch 26
+Correct:3936 / Incorrect:64 / Accuracy:98.40%
+epoch 27
+Correct:3944 / Incorrect:56 / Accuracy:98.60%
+epoch 28
+Correct:3961 / Incorrect:39 / Accuracy:99.02%
+epoch 29
+Correct:3874 / Incorrect:126 / Accuracy:96.85%
+epoch 30
+Correct:3928 / Incorrect:72 / Accuracy:98.20%
+epoch 31
+Correct:3935 / Incorrect:65 / Accuracy:98.38%
+epoch 32
+Correct:3915 / Incorrect:85 / Accuracy:97.88%
+epoch 33
+Correct:3927 / Incorrect:73 / Accuracy:98.17%
+epoch 34
+Correct:3930 / Incorrect:70 / Accuracy:98.25%
+epoch 35
+Correct:3863 / Incorrect:137 / Accuracy:96.58%
+epoch 36
+Correct:3880 / Incorrect:120 / Accuracy:97.00%
+epoch 37
+Correct:3890 / Incorrect:110 / Accuracy:97.25%
+epoch 38
+Correct:3919 / Incorrect:81 / Accuracy:97.97%
+epoch 39
+Correct:3969 / Incorrect:31 / Accuracy:99.22%
+epoch 40
+Correct:3894 / Incorrect:106 / Accuracy:97.35%
+epoch 41
+Correct:3941 / Incorrect:59 / Accuracy:98.52%
+epoch 42
+Correct:3922 / Incorrect:78 / Accuracy:98.05%
+epoch 43
+Correct:3938 / Incorrect:62 / Accuracy:98.45%
+epoch 44
+Correct:3944 / Incorrect:56 / Accuracy:98.60%
+epoch 45
+Correct:3935 / Incorrect:65 / Accuracy:98.38%
+epoch 46
+Correct:3927 / Incorrect:73 / Accuracy:98.17%
+epoch 47
+Correct:3903 / Incorrect:97 / Accuracy:97.58%
+epoch 48
+Correct:3942 / Incorrect:58 / Accuracy:98.55%
+epoch 49
+Correct:3929 / Incorrect:71 / Accuracy:98.22%

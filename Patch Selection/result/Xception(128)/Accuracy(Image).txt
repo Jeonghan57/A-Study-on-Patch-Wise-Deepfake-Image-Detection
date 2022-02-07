@@ -1,0 +1,100 @@
+epoch 0
+Correct:2875 / Unknown:719 / Incorrect:406 / Accuracy:71.88%
+epoch 1
+Correct:3053 / Unknown:625 / Incorrect:322 / Accuracy:76.33%
+epoch 2
+Correct:3169 / Unknown:544 / Incorrect:287 / Accuracy:79.22%
+epoch 3
+Correct:3195 / Unknown:549 / Incorrect:256 / Accuracy:79.88%
+epoch 4
+Correct:3331 / Unknown:440 / Incorrect:229 / Accuracy:83.28%
+epoch 5
+Correct:3296 / Unknown:508 / Incorrect:196 / Accuracy:82.40%
+epoch 6
+Correct:3318 / Unknown:487 / Incorrect:195 / Accuracy:82.95%
+epoch 7
+Correct:3417 / Unknown:430 / Incorrect:153 / Accuracy:85.42%
+epoch 8
+Correct:3431 / Unknown:419 / Incorrect:150 / Accuracy:85.78%
+epoch 9
+Correct:3420 / Unknown:424 / Incorrect:156 / Accuracy:85.50%
+epoch 10
+Correct:3417 / Unknown:435 / Incorrect:148 / Accuracy:85.42%
+epoch 11
+Correct:3332 / Unknown:457 / Incorrect:211 / Accuracy:83.30%
+epoch 12
+Correct:3468 / Unknown:394 / Incorrect:138 / Accuracy:86.70%
+epoch 13
+Correct:3436 / Unknown:419 / Incorrect:145 / Accuracy:85.90%
+epoch 14
+Correct:3473 / Unknown:410 / Incorrect:117 / Accuracy:86.83%
+epoch 15
+Correct:3504 / Unknown:382 / Incorrect:114 / Accuracy:87.60%
+epoch 16
+Correct:3508 / Unknown:378 / Incorrect:114 / Accuracy:87.70%
+epoch 17
+Correct:3477 / Unknown:416 / Incorrect:107 / Accuracy:86.92%
+epoch 18
+Correct:3536 / Unknown:342 / Incorrect:122 / Accuracy:88.40%
+epoch 19
+Correct:3568 / Unknown:316 / Incorrect:116 / Accuracy:89.20%
+epoch 20
+Correct:3523 / Unknown:370 / Incorrect:107 / Accuracy:88.08%
+epoch 21
+Correct:3541 / Unknown:337 / Incorrect:122 / Accuracy:88.52%
+epoch 22
+Correct:3536 / Unknown:368 / Incorrect:96 / Accuracy:88.40%
+epoch 23
+Correct:3507 / Unknown:380 / Incorrect:113 / Accuracy:87.67%
+epoch 24
+Correct:3532 / Unknown:348 / Incorrect:120 / Accuracy:88.30%
+epoch 25
+Correct:3491 / Unknown:398 / Incorrect:111 / Accuracy:87.28%
+epoch 26
+Correct:3552 / Unknown:351 / Incorrect:97 / Accuracy:88.80%
+epoch 27
+Correct:3519 / Unknown:381 / Incorrect:100 / Accuracy:87.98%
+epoch 28
+Correct:3544 / Unknown:345 / Incorrect:111 / Accuracy:88.60%
+epoch 29
+Correct:3513 / Unknown:380 / Incorrect:107 / Accuracy:87.83%
+epoch 30
+Correct:3551 / Unknown:353 / Incorrect:96 / Accuracy:88.78%
+epoch 31
+Correct:3561 / Unknown:354 / Incorrect:85 / Accuracy:89.03%
+epoch 32
+Correct:3526 / Unknown:383 / Incorrect:91 / Accuracy:88.15%
+epoch 33
+Correct:3486 / Unknown:404 / Incorrect:110 / Accuracy:87.15%
+epoch 34
+Correct:3529 / Unknown:380 / Incorrect:91 / Accuracy:88.22%
+epoch 35
+Correct:3476 / Unknown:402 / Incorrect:122 / Accuracy:86.90%
+epoch 36
+Correct:3517 / Unknown:386 / Incorrect:97 / Accuracy:87.92%
+epoch 37
+Correct:3531 / Unknown:372 / Incorrect:97 / Accuracy:88.28%
+epoch 38
+Correct:3564 / Unknown:349 / Incorrect:87 / Accuracy:89.10%
+epoch 39
+Correct:3507 / Unknown:377 / Incorrect:116 / Accuracy:87.67%
+epoch 40
+Correct:3539 / Unknown:372 / Incorrect:89 / Accuracy:88.48%
+epoch 41
+Correct:3566 / Unknown:338 / Incorrect:96 / Accuracy:89.15%
+epoch 42
+Correct:3572 / Unknown:347 / Incorrect:81 / Accuracy:89.30%
+epoch 43
+Correct:3553 / Unknown:359 / Incorrect:88 / Accuracy:88.83%
+epoch 44
+Correct:3598 / Unknown:311 / Incorrect:91 / Accuracy:89.95%
+epoch 45
+Correct:3571 / Unknown:344 / Incorrect:85 / Accuracy:89.28%
+epoch 46
+Correct:3593 / Unknown:318 / Incorrect:89 / Accuracy:89.83%
+epoch 47
+Correct:3556 / Unknown:365 / Incorrect:79 / Accuracy:88.90%
+epoch 48
+Correct:3555 / Unknown:359 / Incorrect:86 / Accuracy:88.88%
+epoch 49
+Correct:3573 / Unknown:336 / Incorrect:91 / Accuracy:89.33%
